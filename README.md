@@ -2,6 +2,23 @@
   <head>
     <title>Анастасия Никитина</title>
     <link rel="stylesheet" href="style.css"/>
+    <style>
+body {
+    font-family: sans-serif;
+}
+
+.link-nav{
+    font-size:20px;
+    text-decoration:none;
+    color: black;
+    padding: 20px;
+    text-shadow: 10px 10px 10px red;
+}
+
+header{
+    text-align: center;
+}
+    </style>
   </head>
   <body>
     <header>
